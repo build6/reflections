@@ -10,13 +10,23 @@ repository is the formal record.  working directory is the garage.  staging area
 How can you use the staging area to make sure you have one commit per logical
 change?
 
+	keep an eye out on logically connected files in the staging area?  only work on one thing at a time? 
+
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
+	when creating functional subvariants of the app, or when trying to experiment without touching the "important version"
+
 How do the diagrams help you visualize the branch structure?
+
+	... eh?  pictures easer than text?  
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+	you now have a unified branch.  it joins back in?
+
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+
+	saves time and effort vs absolute certainty (though not really since weariness causes errors also)
